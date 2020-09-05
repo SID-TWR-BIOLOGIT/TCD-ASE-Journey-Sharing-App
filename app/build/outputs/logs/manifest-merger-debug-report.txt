@@ -1,0 +1,326 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:2:1-112:12
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:2:1-112:12
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:2:1-112:12
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:2:1-112:12
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/aba4fbc02a4b2c1e16b0f8bba4bb0dcd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/4c2320bb8adefbf768059f56ac95f95f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4ef54b1aeb504b71b117d1657ce754c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4ffcf56494a2a9b6efa1b3db63f1b6b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6a99448f4bc68744835b2eae3c32a997/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yifang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/18bb5506e299c9ea156c42af93fb3783/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-nearby:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-nearby-15.0.1.aar/bb212ac47dca0c24b5d4a299094720df/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/c3c31a74baad5de3f06777d4a02c1f9a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/220662be2ed2f1bac9650677d1528d48/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/b1cbaad08c6ef169204e980eb4482a22/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/30187d517116d6ea08dc79b37285ddba/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cecb199e5560aba22bf785e26e630d2f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/34604b50eee98bb49fb494454c3cb955/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/35dda56f6ce15b3bc9b9e9635636e22e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a27e07239b2bbe30e3f47181bb801ed0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a250939ba3cc4475750e6187f73b3920/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ee70fe93fe27ef0efdff035c3b72473b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4ed1dab158d97c44d4c9fb3b973cb85f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a1e9f0ce25820ac13396d6b21afd7442/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1a50f48d1cfda89d00fd9d723b3ceee8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8aa57e49122fe4d2df952901fc94eadf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2e856114e7bf2d3547bd849666af5268/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/687ee33077377383506339aad524ab63/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/17b43b634260438bc01568d8deaaf01c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/37031db3391b111c8a1f6ef44525c9cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/99c4d62ccb2f40de9ce17ec176398314/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:2:1-112:12
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:2:1-112:12
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:2:1-112:12
+	package
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:2:1-112:12
+		INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:2:1-112:12
+		INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:7:22-71
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-nearby:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-nearby-15.0.1.aar/bb212ac47dca0c24b5d4a299094720df/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-nearby-15.0.1.aar/bb212ac47dca0c24b5d4a299094720df/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:18:22-78
+application
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:20:5-111:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yifang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/18bb5506e299c9ea156c42af93fb3783/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yifang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/18bb5506e299c9ea156c42af93fb3783/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-nearby-15.0.1.aar/bb212ac47dca0c24b5d4a299094720df/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-nearby-15.0.1.aar/bb212ac47dca0c24b5d4a299094720df/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/c3c31a74baad5de3f06777d4a02c1f9a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/c3c31a74baad5de3f06777d4a02c1f9a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/220662be2ed2f1bac9650677d1528d48/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/220662be2ed2f1bac9650677d1528d48/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/b1cbaad08c6ef169204e980eb4482a22/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/b1cbaad08c6ef169204e980eb4482a22/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/30187d517116d6ea08dc79b37285ddba/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/30187d517116d6ea08dc79b37285ddba/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cecb199e5560aba22bf785e26e630d2f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cecb199e5560aba22bf785e26e630d2f/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:26:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:27:9-29:71
+	android:value
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:29:13-68
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:28:13-58
+meta-data#com.google.android.gms.version
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:30:9-32:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cecb199e5560aba22bf785e26e630d2f/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cecb199e5560aba22bf785e26e630d2f/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:32:13-66
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:31:13-58
+activity#ch.hevs.fbonvin.disasterassistance.MainActivity
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:34:9-44:20
+	android:screenOrientation
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:37:13-49
+	android:launchMode
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:36:13-43
+	android:theme
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:38:13-47
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:35:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:42:27-74
+activity#ch.hevs.fbonvin.disasterassistance.views.activities.ActivitySendMessage
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:45:9-53:20
+	android:screenOrientation
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:49:13-49
+	android:parentActivityName
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:48:13-55
+	android:launchMode
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:47:13-43
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:46:13-65
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:50:13-52:49
+	android:value
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:52:17-46
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:51:17-63
+activity#ch.hevs.fbonvin.disasterassistance.views.activities.ActivityNetworkStatus
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:54:9-62:20
+	android:screenOrientation
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:58:13-49
+	android:parentActivityName
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:57:13-55
+	android:label
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:56:13-66
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:55:13-67
+activity#ch.hevs.fbonvin.disasterassistance.views.activities.ActivityMessageDetails
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:63:9-71:20
+	android:screenOrientation
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:67:13-49
+	android:parentActivityName
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:66:13-55
+	android:label
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:65:13-51
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:64:13-68
+activity#ch.hevs.fbonvin.disasterassistance.views.activities.ActivitySendMessageConfirmation
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:72:9-80:20
+	android:screenOrientation
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:76:13-49
+	android:parentActivityName
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:75:13-79
+	android:label
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:74:13-41
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:73:13-77
+activity#ch.hevs.fbonvin.disasterassistance.views.settings.ActivityPreferences
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:81:9-88:20
+	android:parentActivityName
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:84:13-55
+	android:label
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:83:13-60
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:82:13-63
+activity#ch.hevs.fbonvin.disasterassistance.views.onBoards.ActivityOnBoard
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:89:9-92:59
+	android:screenOrientation
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:91:13-49
+	android:theme
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:92:13-56
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:90:13-59
+activity#ch.hevs.fbonvin.disasterassistance.views.onBoards.ActivityOnBoardTutorial
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:93:9-96:59
+	android:screenOrientation
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:95:13-49
+	android:theme
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:96:13-56
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:94:13-67
+activity#ch.hevs.fbonvin.disasterassistance.views.activities.ActivityAboutApplication
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:98:9-106:20
+	android:screenOrientation
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:102:13-49
+	android:parentActivityName
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:101:13-77
+	android:label
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:100:13-34
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:99:13-70
+activity#ch.hevs.fbonvin.disasterassistance.views.activities.ActivityOfflineMap
+ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:107:9-110:58
+	android:screenOrientation
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:109:13-49
+	android:theme
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:110:13-56
+	android:name
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml:108:13-64
+uses-sdk
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/aba4fbc02a4b2c1e16b0f8bba4bb0dcd/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/aba4fbc02a4b2c1e16b0f8bba4bb0dcd/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/4c2320bb8adefbf768059f56ac95f95f/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/4c2320bb8adefbf768059f56ac95f95f/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4ef54b1aeb504b71b117d1657ce754c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4ef54b1aeb504b71b117d1657ce754c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4ffcf56494a2a9b6efa1b3db63f1b6b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4ffcf56494a2a9b6efa1b3db63f1b6b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6a99448f4bc68744835b2eae3c32a997/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6a99448f4bc68744835b2eae3c32a997/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yifang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/18bb5506e299c9ea156c42af93fb3783/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/yifang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/18bb5506e299c9ea156c42af93fb3783/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-nearby:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-nearby-15.0.1.aar/bb212ac47dca0c24b5d4a299094720df/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-nearby-15.0.1.aar/bb212ac47dca0c24b5d4a299094720df/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/c3c31a74baad5de3f06777d4a02c1f9a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/c3c31a74baad5de3f06777d4a02c1f9a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/220662be2ed2f1bac9650677d1528d48/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/220662be2ed2f1bac9650677d1528d48/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/b1cbaad08c6ef169204e980eb4482a22/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/b1cbaad08c6ef169204e980eb4482a22/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/30187d517116d6ea08dc79b37285ddba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/30187d517116d6ea08dc79b37285ddba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cecb199e5560aba22bf785e26e630d2f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cecb199e5560aba22bf785e26e630d2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/34604b50eee98bb49fb494454c3cb955/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/34604b50eee98bb49fb494454c3cb955/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/35dda56f6ce15b3bc9b9e9635636e22e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/35dda56f6ce15b3bc9b9e9635636e22e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a27e07239b2bbe30e3f47181bb801ed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a27e07239b2bbe30e3f47181bb801ed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a250939ba3cc4475750e6187f73b3920/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a250939ba3cc4475750e6187f73b3920/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ee70fe93fe27ef0efdff035c3b72473b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ee70fe93fe27ef0efdff035c3b72473b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4ed1dab158d97c44d4c9fb3b973cb85f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4ed1dab158d97c44d4c9fb3b973cb85f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a1e9f0ce25820ac13396d6b21afd7442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a1e9f0ce25820ac13396d6b21afd7442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1a50f48d1cfda89d00fd9d723b3ceee8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1a50f48d1cfda89d00fd9d723b3ceee8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8aa57e49122fe4d2df952901fc94eadf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8aa57e49122fe4d2df952901fc94eadf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2e856114e7bf2d3547bd849666af5268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2e856114e7bf2d3547bd849666af5268/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/687ee33077377383506339aad524ab63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/687ee33077377383506339aad524ab63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/17b43b634260438bc01568d8deaaf01c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/17b43b634260438bc01568d8deaaf01c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/37031db3391b111c8a1f6ef44525c9cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/37031db3391b111c8a1f6ef44525c9cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/99c4d62ccb2f40de9ce17ec176398314/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yifang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/99c4d62ccb2f40de9ce17ec176398314/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yifang/Documents/GitHub/travel_buddy/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c8d1d04f80c32c41df8d6d4ab22ea83a/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/220662be2ed2f1bac9650677d1528d48/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/220662be2ed2f1bac9650677d1528d48/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/220662be2ed2f1bac9650677d1528d48/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/220662be2ed2f1bac9650677d1528d48/AndroidManifest.xml:24:13-79

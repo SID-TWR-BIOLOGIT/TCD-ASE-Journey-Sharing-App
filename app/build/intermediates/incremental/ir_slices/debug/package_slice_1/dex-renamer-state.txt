@@ -1,0 +1,4 @@
+#Thu Apr 04 17:50:29 IST 2019
+base.0=/Users/yifang/Documents/GitHub/travel_buddy/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
